@@ -2,6 +2,8 @@
 
 Este é um projeto desenvolvido com **Streamlit** e **Pandas** para a análise de dados demográficos e comportamentais de um público-alvo. O objetivo é fornecer uma visualização interativa dos dados através de filtros personalizados e gráficos.
 
+![github](https://github.com/user-attachments/assets/4812253c-b435-4c49-94e1-c6f6be3bad6e)
+
 ## Requisitos
 
 Antes de começar a usar o projeto, é necessário ter o seguinte instalado:
