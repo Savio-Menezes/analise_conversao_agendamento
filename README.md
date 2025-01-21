@@ -198,4 +198,4 @@ As seguintes bibliotecas são utilizadas:
 Sinta-se à vontade para abrir problemas (*issues*) ou enviar solicitações de pull (*pull requests*) para melhorias.
 
 
->>>>>>> dce3caa3 (Refatoração do layout do relatório de agendamentos)
+
