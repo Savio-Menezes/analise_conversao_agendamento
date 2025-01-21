@@ -12,7 +12,7 @@ st.set_page_config(
 # Função para carregar os dados
 @st.cache_data
 def load_data():
-    file_path = r'C:\Users\savio.CVP\Documents\publico_alvo\data\relatorio_agendamento.csv'
+    file_path = os.path.join(os.getcwd(), "data", "relatorio_agendamento.csv")
     if not os.path.exists(file_path):
         st.error(f"O arquivo '{file_path}' não foi encontrado.")
         return pd.DataFrame()
